@@ -1,4 +1,4 @@
-## Laravel API Boilerplate
+## Laravel API Template
 
 [Laravel documentation](https://laravel.com/docs/8.x)
 [Laravel API](https://laravel.com/api/8.x/)
